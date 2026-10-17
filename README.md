@@ -1,1 +1,1 @@
-# Matem-tica-para-computa-o
+# Matematica-para-computacao
